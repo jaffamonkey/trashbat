@@ -34,7 +34,7 @@ function ImageRollOut(imgName) {
 
 /*
      FILE ARCHIVED ON 00:25:43 Feb 12, 2015 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 19:33:28 May 13, 2026.
+     INTERNET ARCHIVE ON 19:52:41 May 13, 2026.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -42,8 +42,8 @@ function ImageRollOut(imgName) {
 */
 /*
 playback timings (ms):
-  capture_cache.get: 0.396
-  load_resource: 38.718
-  PetaboxLoader3.resolve: 33.007
-  PetaboxLoader3.datanode: 4.549
+  capture_cache.get: 19.562
+  load_resource: 87.84
+  PetaboxLoader3.resolve: 84.659
+  PetaboxLoader3.datanode: 2.299
 */
