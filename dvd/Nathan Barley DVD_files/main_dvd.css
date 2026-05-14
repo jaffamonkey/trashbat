@@ -1,0 +1,116 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+	background-color: #000;
+}
+	
+body.barley {
+	margin: 0px;
+	background-color: #A2A144;
+}
+	
+p {
+	font-family: verdana, arial, helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 14px;
+}
+
+p.instructions {
+	color: #FFF;
+}
+
+p.instructionstitle {
+	font: normal 14px/15px Courier New, Courier, mono;
+	margin: 4px 0px 3px 0px;
+	color: #E9E706;
+}
+	
+p.selection, p.wallpaper {
+	font: normal 14px/15px Courier New, Courier, mono;
+	margin: 4px 0px 3px 0px;
+	color: #000;
+}
+
+p.wallpaper {
+	margin: 8px 8px 8px 8px;
+}
+
+h1 {
+	font-family: verdana, arial, helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 16px;
+	color: #E9E706;
+}
+
+li {
+	font-family: verdana, arial, helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 14px;
+	color: #FFF;
+	margin: 12px;	
+	list-style: disc;
+}
+	
+a {
+	font-weight: normal;
+}
+
+a:link {
+	color: #E9E706;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #E9E706;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #999;
+	text-decoration: none;
+}
+
+a:active {
+	color: #999;
+	text-decoration: none;
+}
+	
+a.wallpaper {
+	font-weight: normal;
+}
+
+a.wallpaper:link {
+	color: #000;
+	text-decoration: underline;
+}
+
+a.wallpaper:visited {
+	color: #000;
+	text-decoration: underline;
+}
+
+a.wallpaper:hover {
+	color: #999;
+	text-decoration: none;
+}
+
+a.wallpaper:active {
+	color: #999;
+	text-decoration: none;
+}
+/*
+     FILE ARCHIVED ON 00:39:15 Apr 28, 2015 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:03:23 May 14, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  capture_cache.get: 0.527
+  load_resource: 317.381 (2)
+  PetaboxLoader3.resolve: 249.598 (2)
+  PetaboxLoader3.datanode: 65.899 (2)
+*/
